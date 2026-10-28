@@ -1,0 +1,37 @@
+# Midnight Bloom — Omarchy theme
+# Derived from the "Midnight Bloom" Zed theme by bsadik.
+mode = "dark"
+
+accent = "#8caaee"
+selection = "#354158"
+muted = "#778399"
+
+background = "#171b24"
+dark_background = "#141820"
+darker_background = "#12161e"
+lighter_background = "#232a38"
+
+foreground = "#d8dee9"
+dark_foreground = "#8993a5"
+light_foreground = "#bcc6d8"
+bright_foreground = "#f0f3fa"
+
+red = "#e78284"
+yellow = "#e5c890"
+orange = "#e9b18e"
+green = "#a6d189"
+cyan = "#81c8be"
+blue = "#8caaee"
+magenta = "#ca9ee6"
+brown = "#97845f"
+
+bright_red = "#f1a0a2"
+bright_yellow = "#f0d9aa"
+bright_green = "#bedfa9"
+bright_cyan = "#a1ded5"
+bright_blue = "#adc5ff"
+bright_magenta = "#dcbaf2"
+
+# Window borders: blue -> lavender bloom
+hyprland_active_border = "rgba(8caaeeee) rgba(b7a5e8ee) 45deg"
+hyprland_inactive_border = "rgba(2b3445aa)"
